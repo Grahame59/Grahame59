@@ -18,7 +18,7 @@ Welcome to my personal GitHub! This space hosts my code from various side projec
 
 - Building up my personal website to act as a space to share my projects & portfolio
 - Developing a long-term chatbot called DansbyBot, working on and off
-- 
+
 ---
 
 ## 📫 Contact Me
