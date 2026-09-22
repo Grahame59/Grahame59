@@ -23,9 +23,9 @@ Welcome to my personal GitHub! This space hosts my code from various side projec
 
 ## 📫 Contact Me
 
-- 📧 Email: [KJGBusiness8@gmail.com](mailto:KJGBusiness8@gmail.com)
+- 📧 Email: [KylerGDev@gmail.com](mailto:KylerGDev@gmail.com)
 - 📹 YouTube: [@IceTeaSoftDev](https://www.youtube.com/@IceTeaSoftDev)
-- 🌐 Portfolio: **https://www.kylerg.com)**
+- 🌐 Personal Website for Fun: **https://www.kylerg.com)**
 
 ---
 
